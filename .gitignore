@@ -10,3 +10,6 @@ Thumbs.db
 
 # Optional: Ignore environment config files (if applicable)
 .env
+
+.venv/
+.pytest_cache/
